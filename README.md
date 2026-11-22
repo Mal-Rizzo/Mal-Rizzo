@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Mal-Rizzo
-- 👀 I’m interested in Robotics,Machine Learning, and Automation
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on all manner of open source projects
+- 
 
 
 <!---
